@@ -1,0 +1,18 @@
+using the FC - File Compare made it easy to identify the lines that were different, ultimately highlighting the typo
+
+having version control can help a programmer easily identify code that helped them make great advancements on their projects
+
+Manual Commits
+	Pros - logical
+	Cons - may forget to commit
+
+Google docs was designed to treat each file separately, while Git was designed to work with a collection of files together
+
+Git Log gives you the list of Commits
+
+Git Diff allows you to find the changes between two Commits
+
+You'll be able to make changes more confidently when you know that it will be easy to identify the changes to undo them.
+
+I have not done set up.
+
