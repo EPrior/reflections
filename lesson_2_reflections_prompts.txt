@@ -2,3 +2,22 @@ adding text to this file
 
 staging area lets you identify precisely what changed to be saved in the commit
 
+I am adding this line to change the file.
+
+Even though multiple changes have been made, you can control logical changes by
+sending one file at a time to the shaging area
+
+Branches can be used to introduce experimental features or divergent functionality
+to your program, while keeping the original path working.
+
+Branch diagrams help document the branches and commits.
+
+Merging branches combines all the changes from two branches into a single file/file set.
+The diagram shows the two branches coming together.
+
+Merging automatically combines code that can be done easily and identifies conflicts
+that need to be combined with consideration.
+
+
+
+
